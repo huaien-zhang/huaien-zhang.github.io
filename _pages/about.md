@@ -27,17 +27,6 @@ I am interested in intelligent software engineering and programming languages. M
 # 📝 Publications 
 
 ("*" indicates the corresponding author.)
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-
-<!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
-
-<!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
 
 - <span style="display: inline-block; background-color:rgb(23, 115, 136); color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TOSEM 2025</span> Towards Understanding Refactoring Engine Bugs
   Haibo Wang, Zhuolin Xu, **Huaien Zhang<sup>*</sup>**, Nikolaos Tsantalis, and Shin Hwei Tan
@@ -67,15 +56,15 @@ I am interested in intelligent software engineering and programming languages. M
 
     In The 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, 2023. <span style="color: red;">(CCF-A Conference)</span>
 
-    [[**Paper**]()]
+    [[**Paper**](assets/pdf/Statfier-FSE-2023.pdf)]
 
-- <span style="display: inline-block; background-color:rgb(23, 115, 136); color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">FSE 2023</span> Classifying Code Comments via Pre-trained Programming Language Model
+- <span style="display: inline-block; background-color:rgb(23, 115, 136); color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">NLBSE 2023</span> Classifying Code Comments via Pre-trained Programming Language Model
 
-    Ying Li, Haibo Wang, <b>Huaien Zhang</b>, and Shin Hwei Tan
+    Ying Li, Haibo Wang, **Huaien Zhang**, and Shin Hwei Tan
 
     In The IEEE/ACM 2nd International Workshop on Natural Language-Based Software Engineering, 2023.
 
-    [[**Paper**]()]
+    [[**Paper**](assets/pdf/Ying-NLBSE-2023.pdf)]
 
 # 🎖 Honors and Awards
 - *2024.09* ACM CAPS Grant
@@ -89,6 +78,7 @@ I am interested in intelligent software engineering and programming languages. M
 # 💬 Invited Talks
 - *2025.06*, Dagstuhl Seminar: Effective Fault Detection for Static Analzyers via Automated Testing
 - *2024.12*, Beijing University of Posts and Telecommunications: Improving the Reliability of Program Analyzers via Automated Testing
+- *2024.11*, Shandong University: Improving the Reliability of Program Analyzers via Automated Testing
 
 # 💻 Internships
 - *2024.08 - 2025.01*, Research Intern, Quality Assurance Team @ [ByteDance](https://www.bytedance.com/en/)
