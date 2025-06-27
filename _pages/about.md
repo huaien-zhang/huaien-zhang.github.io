@@ -21,14 +21,15 @@ Hello, I'm Huaien Zhang. I earned my PhD in Computer Science from The Hong Kong 
 
 I am interested in intelligent software engineering and programming languages. My research focuses on applying techniques such as program analysis, fuzzing, and large language model to enhance the security and reliability of software systems.
 
-<!-- # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 I have successfully defended my PhD thesis! -->
+# 🔥 News
+- *2025.06*: &nbsp;🎉🎉 I have successfully defended my PhD thesis!
 
 # 📝 Publications 
 
 ("*" indicates the corresponding author.)
 
 - <span style="display: inline-block; background-color:rgb(23, 115, 136); color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TOSEM 2025</span> Towards Understanding Refactoring Engine Bugs
+
   Haibo Wang, Zhuolin Xu, **Huaien Zhang<sup>*</sup>**, Nikolaos Tsantalis, and Shin Hwei Tan
 
   In ACM Transactions on Software Engineering and Methodology, 2025. <span style="color: red;">(CCF-A Journal)</span>
@@ -50,7 +51,7 @@ I am interested in intelligent software engineering and programming languages. M
 
     [[**Paper**](assets/pdf/AnnaStudy-FSE-2024.pdf)]
 
-- <span style="display: inline-block; background-color:rgb(23, 115, 136); color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">FSE 2023</span> Statfier: Automated Testing of Static Analyzers via Semantic-preserving Program Transformations
+- <span style="display: inline-block; background-color:rgb(23, 115, 136); color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">ESEC/FSE 2023</span> Statfier: Automated Testing of Static Analyzers via Semantic-preserving Program Transformations
 
     **Huaien Zhang**, Yu Pei, Junjie Chen, and Shin Hwei Tan
 
