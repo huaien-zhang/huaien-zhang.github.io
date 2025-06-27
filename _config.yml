@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Huaien Zhang/张怀恩"
-description              : "Personal Homepage of Huaien"
+description              : "Focusing on system software reliability and security"
 repository               : "huaien-zhang/huaien-zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Huaien Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Incoming PostDoc Researcher at HKU, CS PhD at HK PolyU"
-  location         : "Pok Fu Lam, Hong Kong"
+  bio              : "Incoming PostDoc Researcher at The University of Hong Kong"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : # ""
   email            : "huaien.zhang@connect.polyu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
