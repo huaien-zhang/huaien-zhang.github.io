@@ -33,7 +33,8 @@ I am interested in intelligent software engineering and programming languages. M
   Haibo Wang, Zhuolin Xu, **Huaien Zhang<sup>*</sup>**, Nikolaos Tsantalis, and Shin Hwei Tan
 
   In ACM Transactions on Software Engineering and Methodology, 2025. <span style="color: red;">(CCF-A Journal)</span>
-  [[**Paper**]()]
+
+  [[**Paper**](assets/pdf/TOSEM-2025-RE.pdf)]
 
 - <span style="display: inline-block; background-color:rgb(23, 115, 136); color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">ISSTA 2024</span> Characterizing and Detecting Program Representation Faults of Static Analysis Frameworks
 
