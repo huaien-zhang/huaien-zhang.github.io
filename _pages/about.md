@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I'm Huaien Zhang. I earned my PhD degree in Computer Science from The Hong Kong Polytechnic University, where I was supervised by Prof. Yu Pei and co-supervised by Prof. Shin Hwei Tan. I will soon join The University of Hong Kong as a postdoctoral researcher under the supervision of Prof. Ho Chen (IEEE Fellow).
+Hello, I'm Huaien Zhang. I am a Research Associate at The University of Hong Kong, supervised by Prof. Ho Chen (IEEE Fellow). I earned my PhD in Computer Science from The Hong Kong Polytechnic University, where I was supervised by Prof. Yu Pei and co-supervised by Prof. Shin Hwei Tan. I also collaborate closely with Prof. Yuqun Zhang.
 
-I am interested in intelligent software engineering and programming languages. My research focuses on applying techniques such as program analysis, fuzzing, and large language model to enhance the security and reliability of software systems.
+I am interested in compiler and program analyzer, software security/reliability, AI4SE, and trustworthy AI. My research focuses on applying techniques such as program analysis, fuzzing, and large language model to enhance the security and reliability of software systems.
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 I have successfully defended my PhD thesis!
