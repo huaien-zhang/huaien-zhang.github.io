@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I'm Huaien Zhang. I am a Research Associate (postdoctoral researcher) at The University of Hong Kong, working under the supervision of Prof. Ho Chen (IEEE Fellow). I am interested in compiler and program analyzer, software security/reliability, AI4SE, and trustworthy AI. My research focuses on applying techniques such as program analysis, fuzzing, and large language model to enhance the security and reliability of software systems.
+Hello, I'm Huaien Zhang. I am a Research Associate at The University of Hong Kong, working under the supervision of Prof. Ho Chen (IEEE Fellow). I am interested in compiler and program analyzer, software security/reliability, AI4SE, and trustworthy AI. My research focuses on applying techniques such as program analysis, fuzzing, and large language model to enhance the security and reliability of software systems.
 
 I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University, where my research was supervised by Prof. Yu Pei and co-supervised by Prof. Shin Hwei Tan. I also collaborate closely with Prof. Yuqun Zhang. Prior to my PhD, I completed my M.Eng. in Software Engineering at Fudan University under the joint supervision of Prof. Min Yang and Prof. Zhemin Yang.
 
