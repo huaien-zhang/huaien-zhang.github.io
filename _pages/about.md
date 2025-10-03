@@ -76,7 +76,7 @@ I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University,
 # 🔦 Academic Services
 - **Journal Reviewer**: TSE, TOSEM, IoT-J, ACM TDRAP
 - **Organization Committee Member**: FSE 2026
-- **Program Committee Member**: NDSS 2026 AE, ICSE 2025 AE, ACM CCS 2025 AE, ACM CCS 2024 AE, ICSME 2024 AE
+- **Program Committee Member**: MSR 2026, NDSS 2026 AE, ICSE 2025 AE, ACM CCS 2025 AE, ACM CCS 2024 AE, ICSME 2024 AE
 - **External Reviewer**: ICSE 2026, ICSE 2025, ASE 2025, ICSE 2024, ISSTA 2024, FSE 2023, ASE 2023, ISSTA 2023, ICSE 2022, ASE 2022
 
 <!-- # 📖 Educations
