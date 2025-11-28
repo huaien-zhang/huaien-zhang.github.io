@@ -77,7 +77,7 @@ I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University,
 - **Journal Reviewer**: Comm of ACM (CACM), TSE, TOSEM, IoT-J, ACM TDRAP
 - **Organization Committee Member**: FSE 2026
 - **Program Committee Member**: ISSTA 2026, MSR 2026
-- **Artifact Evaluation Committee Member**: NDSS 2026 AE, ICSE 2025 AE, ACM CCS 2025 AE, ACM CCS 2024 AE, ICSME 2024 AE
+- **Artifact Evaluation Committee Member**: ICSE 2026, NDSS 2026, ICSE 2025, ACM CCS 2025, ACM CCS 2024, ICSME 2024
 - **External Reviewer**: IEEE S&P 2026, ICSE 2026, ICSE 2025, ASE 2025, ICSE 2024, ISSTA 2024, FSE 2023, ASE 2023, ISSTA 2023, ICSE 2022, ASE 2022
 
 <!-- # 📖 Educations
@@ -92,10 +92,10 @@ I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University,
 - *2024.10*, Northeastern University: Improving the Reliability of Static Analyzers via Automated Testing
 
 # 🧑‍🎓 (Co-)Supervised Students
-- Shenglan Pan, Ph.D. Student
-- Zhengjie Zhao, Master Student
-- Shuyun Liang, Master Student
-- Zezhong Chen, Master Student
+- Shenglan Pan, Ph.D. Student, co-supervised with Prof. Minxue Pan.
+- Zhengjie Zhao, Master Student, co-supervised with Prof. Minxue Pan.
+- Shuyun Liang, Master Student, co-supervised with Prof. Shin Hwei Tan.
+- Zezhong Chen, Master Student, co-supervised with Prof. Shin Hwei Tan.
 
 # 💻 Working Experience
 - *2024.08 - 2025.01*, Research Intern, Quality Assurance Team @ [ByteDance](https://www.bytedance.com/en/)
