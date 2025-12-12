@@ -85,6 +85,7 @@ I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University,
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 💬 Invited Talks
+- *2025.12*, Nanjing University: Trustworthy Program Analysis: From Automated Testing to LLM
 - *2025.06*, Dagstuhl Seminar: Effective Fault Detection for Static Analzyers via Automated Testing
 - *2024.12*, Beijing University of Posts and Telecommunications: Improving the Reliability of Program Analyzers via Automated Testing
 - *2024.11*, Shandong University: Improving the Reliability of Program Analyzers via Automated Testing
@@ -93,9 +94,11 @@ I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University,
 
 # 🧑‍🎓 (Co-)Supervised Students
 - Shenglan Pan, Ph.D. Student, co-supervised with Prof. Minxue Pan.
-- Zhengjie Zhao, Master Student, co-supervised with Prof. Minxue Pan.
-- Shuyun Liang, Master Student, co-supervised with Prof. Shin Hwei Tan.
-- Zezhong Chen, Master Student, co-supervised with Prof. Shin Hwei Tan.
+- Zhengjie Zhao, M.Phil. Student, co-supervised with Prof. Minxue Pan.
+
+## Gradudated Students
+- Shuyun Liang, M.Phil., co-supervised with Prof. Shin Hwei Tan.
+- Zezhong Chen, M.Phil., co-supervised with Prof. Shin Hwei Tan.
 
 # 💻 Working Experience
 - *2024.08 - 2025.01*, Research Intern, Quality Assurance Team @ [ByteDance](https://www.bytedance.com/en/)
