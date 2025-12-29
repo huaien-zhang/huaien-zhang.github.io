@@ -22,8 +22,8 @@ Hello, I'm Huaien Zhang, a Postdoctoral Fellow at The University of Hong Kong, w
 I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University, where my research was supervised by Prof. Yu Pei and co-supervised by Prof. Shin Hwei Tan. Prior to my PhD, I completed my M.Eng. in Software Engineering at Fudan University under the supervision of Prof. Min Yang.
 
 # 🔥 News
-* <span style="color:#030399">**2025.12:**</span> Invited to serve as a PC Member for ISSTA 2026, welcome to submit your papers!
-* <span style="color:#030399">**2025.10:**</span> Invited to serve as a Junior PC Member for MSR 2026, welcome to submit your papers!
+* <span style="color:#030399">**2025.12:**</span> Selected as a PC Member for ISSTA 2026, welcome to submit your papers!
+* <span style="color:#030399">**2025.10:**</span> Selected as a Junior PC Member for MSR 2026, welcome to submit your papers!
 * <span style="color:#030399">**2025.06:**</span> 🎉🎉 Our paper for refactoring was accepted to TOSEM . Congrats to Haibo!
 * <span style="color:#030399">**2025.06:**</span> 🎉🎉 I have successfully defended my PhD thesis!
 
