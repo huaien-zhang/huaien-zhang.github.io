@@ -17,12 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I'm Huaien Zhang, a Research Associate at The University of Hong Kong, working under the supervision of Prof. Ho Chen (IEEE Fellow). My research interest lies in compiler and program analyzer, software security/reliability, and AI4SE/SE4AI. My research focuses on applying techniques such as program analysis, automated testing, and deep learning to enhance the security and reliability of system software.
+Hello, I'm Huaien Zhang, a Postdoctoral Fellow at The University of Hong Kong, working under the supervision of Prof. Ho Chen (IEEE Fellow). My research interest lies in compiler and program analyzer, software security/reliability, and AI4SE/SE4AI. My research focuses on applying techniques such as program analysis, automated testing, and deep learning to enhance the security and reliability of system software.
 
 I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University, where my research was supervised by Prof. Yu Pei and co-supervised by Prof. Shin Hwei Tan. Prior to my PhD, I completed my M.Eng. in Software Engineering at Fudan University under the supervision of Prof. Min Yang.
 
-<!-- # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 I have successfully defended my PhD thesis! -->
+# 🔥 News
+* <span style="color:#030399">**2025.12:**</span> Invited to serve as a PC Member for ISSTA 2026, welcome to submit your papers!
+* <span style="color:#030399">**2025.10:**</span> Invited to serve as a Junior PC Member for MSR 2026, welcome to submit your papers!
+* <span style="color:#030399">**2025.06:**</span> 🎉🎉 Our paper for refactoring was accepted to TOSEM . Congrats to Haibo!
+* <span style="color:#030399">**2025.06:**</span> 🎉🎉 I have successfully defended my PhD thesis!
 
 # 📝 Publications 
 
