@@ -78,10 +78,10 @@ I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University,
 - *2024.07* The Hong Kong Polytechnic University Top Conference Travel Grant
 
 # 🔦 Academic Services
-- **Journal Reviewer**: Comm of ACM (CACM), TSE, TOSEM, IoT-J, ACM TDRAP
 - **Organization Committee Member**: FSE 2026
 - **Program Committee Member**: ISSTA 2026, MSR 2026
-- **Artifact Evaluation Committee Member**: ICSE 2026, NDSS 2026, ICSE 2025, ACM CCS 2025, [ACM CCS 2024](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html), ICSME 2024
+- **Journal Reviewer**: Comm of ACM (CACM), TSE, TOSEM, STVR, IoT-J, ACM TDRAP
+- **Artifact Evaluation Committee Member**: ICSE 2026, NDSS 2026, ICSE 2025, ACM CCS 2025, ACM CCS 2024, ICSME 2024
 - **External Reviewer**: PLDI 2026, IEEE S&P 2026, ICSE 2026, ICSE 2025, ASE 2025, ICSE 2024, ISSTA 2024, FSE 2023, ASE 2023, ISSTA 2023, ICSE 2022, ASE 2022
 
 # 💬 Invited Talks
