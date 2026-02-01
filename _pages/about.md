@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I'm Huaien Zhang, a Postdoctoral Fellow at The University of Hong Kong, working under the supervision of Prof. Ho Chen (IEEE Fellow). My research interest lies in compiler and program analyzer, software security/reliability, and AI4SE/SE4AI. My research focuses on applying techniques such as program analysis, automated testing, and deep learning to enhance the security and reliability of system software.
+Hello, I'm Huaien Zhang, a RTH-ITF Postdoctoral Fellow at The University of Hong Kong, working under the supervision of Prof. Ho Chen (IEEE Fellow). My research interest lies in compiler and program analyzer, software security/reliability, and AI4SE/SE4AI. My research focuses on applying techniques such as program analysis, automated testing, and deep learning to enhance the security and reliability of system software.
 
 I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University, where my research was supervised by Prof. Yu Pei and Prof. Shin Hwei Tan. Prior to my PhD, I completed my M.Eng. in Software Engineering at Fudan University under the supervision of Prof. Min Yang (Changjiang Scholar).
 
@@ -72,14 +72,15 @@ I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University,
 
     [[**Paper**](assets/pdf/Ying-NLBSE-2023.pdf)]
 
-# 🎖 Honors and Awards
-- *2024.09* ACM CAPS Grant
-- *2024.07* ACM CAPS Grant
-- *2024.07* The Hong Kong Polytechnic University Top Conference Travel Grant
+# 🎖 Awards and Grants
+- *Oct 2025 - Present* RTH-ITF Research Talent Postdoctoral Fellowship
+- *Sep 2024* ACM CAPS Grant
+- *Jul 2024* ACM CAPS Grant
+- *Jul 2024* The Hong Kong Polytechnic University Top Conference Grant
 
 # 🔦 Academic Services
 - **Organization Committee Member**: FSE 2026
-- **Program Committee Member**: ISSTA 2026, MSR 2026
+- **Program Committee Member**: ISSTA 2026, ICST 2026, MSR 2026
 - **Journal Reviewer**: Comm of ACM (CACM), TSE, TOSEM, STVR, IoT-J, ACM TDRAP
 - **Artifact Evaluation Committee Member**: ICSE 2026, NDSS 2026, ICSE 2025, ACM CCS 2025, ACM CCS 2024, ICSME 2024
 - **External Reviewer**: PLDI 2026, IEEE S&P 2026, ICSE 2026, ICSE 2025, ASE 2025, ICSE 2024, ISSTA 2024, FSE 2023, ASE 2023, ISSTA 2023, ICSE 2022, ASE 2022
