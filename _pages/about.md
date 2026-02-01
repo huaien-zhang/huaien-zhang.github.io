@@ -86,13 +86,13 @@ I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University,
 - **External Reviewer**: PLDI 2026, IEEE S&P 2026, ICSE 2026, ICSE 2025, ASE 2025, ICSE 2024, ISSTA 2024, FSE 2023, ASE 2023, ISSTA 2023, ICSE 2022, ASE 2022
 
 # 💬 Invited Talks
-- *2025.12*, Sun Yat-sen University: Trustworthy and Reliable Program Analysis: From Automated Testing to LLM
-- *2025.12*, Nanjing University: Trustworthy Program Analysis: From Automated Testing to LLM
-- *2025.06*, Dagstuhl Seminar: Effective Fault Detection for Static Analzyers via Automated Testing
-- *2024.12*, Beijing University of Posts and Telecommunications: Improving the Reliability of Program Analyzers via Automated Testing
-- *2024.11*, Shandong University: Improving the Reliability of Program Analyzers via Automated Testing
-- *2024.10*, Xidian University: Improving the Reliability of Program Analyzers via Automated Testing
-- *2024.10*, Northeastern University: Improving the Reliability of Static Analyzers via Automated Testing
+- *Dec 2025*, Sun Yat-sen University: Trustworthy and Reliable Program Analysis: From Automated Testing to LLM
+- *Dec 2025*, Nanjing University: Trustworthy Program Analysis: From Automated Testing to LLM
+- *Jun 2025*, Dagstuhl Seminar: Effective Fault Detection for Static Analzyers via Automated Testing
+- *Dec 2024*, Beijing University of Posts and Telecommunications: Improving the Reliability of Program Analyzers via Automated Testing
+- *Nov 2024*, Shandong University: Improving the Reliability of Program Analyzers via Automated Testing
+- *Oct 2024*, Xidian University: Improving the Reliability of Program Analyzers via Automated Testing
+- *Oct 2024*, Northeastern University: Improving the Reliability of Static Analyzers via Automated Testing
 
 # 💻 Working Experience
-- *2024.08 - 2025.01*, Research Intern, Quality Assurance Team @ [ByteDance](https://www.bytedance.com/en/)
+- *Aug 2024 - Jan 2025*, Research Intern, Quality Assurance Team @ [ByteDance](https://www.bytedance.com/en/)
