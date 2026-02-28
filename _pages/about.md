@@ -91,8 +91,7 @@ I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University,
 - *Jun 2025*, Dagstuhl Seminar: Effective Fault Detection for Static Analzyers via Automated Testing
 - *Dec 2024*, Beijing University of Posts and Telecommunications: Improving the Reliability of Program Analyzers via Automated Testing
 - *Nov 2024*, Shandong University: Improving the Reliability of Program Analyzers via Automated Testing
-- *Oct 2024*, Xidian University: Improving the Reliability of Program Analyzers via Automated Testing
-- *Oct 2024*, Northeastern University: Improving the Reliability of Static Analyzers via Automated Testing
 
 # 💻 Working Experience
+- *Aug 2025 - Present*, Research Associate, JC STEM Lab @ The University of Hong Kong
 - *Aug 2024 - Jan 2025*, Research Intern, Quality Assurance Team @ [ByteDance](https://www.bytedance.com/en/)
