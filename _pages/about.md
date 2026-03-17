@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I'm Huaien Zhang, a RTH-ITF Postdoctoral Research Fellow at The University of Hong Kong, working under the supervision of Prof. [Ho Chen](https://www.cs.hku.hk/index.php/people/academic-staff/chenho) (IEEE Fellow). My research interest lies in compiler and program analyzer, software security/reliability, and AI4SE/SE4AI. My research focuses on applying techniques such as program analysis, automated testing, and deep learning to enhance the security and reliability of system software.
+Hello, I'm Huaien Zhang, a RTH-ITF Research Associate at The University of Hong Kong, working under the supervision of Prof. [Ho Chen](https://www.cs.hku.hk/index.php/people/academic-staff/chenho) (IEEE Fellow). My research interest lies in compiler and program analyzer, software security/reliability, and AI4SE/SE4AI. My research focuses on applying techniques such as program analysis, automated testing, and deep learning to enhance the security and reliability of system software.
 
 I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University, where my research was supervised by Prof. [Yu Pei](https://www4.comp.polyu.edu.hk/~csypei/) and Prof. [Shin Hwei Tan](https://www.shinhwei.com/). Prior to my PhD, I completed my M.Eng. in Software Engineering at Fudan University under the supervision of Prof. [Min Yang](https://secsys.fudan.edu.cn/members/faculty/ym/).
 
@@ -73,7 +73,7 @@ I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University,
     [[**Paper**](assets/pdf/Ying-NLBSE-2023.pdf)]
 
 # 🎖 Awards and Grants
-- *Oct 2025 - Present* RTH-ITF Research Talent Postdoctoral Fellowship
+- *Oct 2025 - Present* RTH-ITF Research Talent
 - *Sep 2024* ACM CAPS Grant
 - *Jul 2024* ACM CAPS Grant
 - *Jul 2024* The Hong Kong Polytechnic University Top Conference Grant
