@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I'm Huaien Zhang, a RTH-ITF Research Associate at The University of Hong Kong, working under the supervision of Prof. [Ho Chen](https://www.cs.hku.hk/index.php/people/academic-staff/chenho) (IEEE Fellow). My research interest lies in compiler and program analyzer, software security/reliability, and AI4SE/SE4AI. My research focuses on applying techniques such as program analysis, automated testing, and deep learning to enhance the security and reliability of system software.
+Hello, I'm Huaien Zhang, a RTH-ITF Postdoc Research Fellow in the department of computer science at The University of Hong Kong, working under the supervision of Prof. [Ho Chen](https://www.cs.hku.hk/index.php/people/academic-staff/chenho) (IEEE Fellow). My research interest lies in compiler and program analyzer, software security/reliability, and AI4SE/SE4AI. My research focuses on applying techniques such as program analysis, automated testing, and deep learning to enhance the security and reliability of system software.
 
 I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University, where my research was supervised by Prof. [Yu Pei](https://www4.comp.polyu.edu.hk/~csypei/) and Prof. [Shin Hwei Tan](https://www.shinhwei.com/). Prior to my PhD, I completed my M.Eng. in Software Engineering at Fudan University under the supervision of Prof. [Min Yang](https://secsys.fudan.edu.cn/members/faculty/ym/).
 
@@ -93,5 +93,6 @@ I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University,
 - *Nov 2024*, Shandong University: Improving the Reliability of Program Analyzers via Automated Testing
 
 # 💻 Working Experience
-- *Aug 2025 - Present*, Research Associate, JC STEM Lab @ The University of Hong Kong
+- *Apr 2026 - Present*, Postdoc Research Fellow, Department of Computer Science @ The University of Hong Kong
+- *Aug 2025 - Apr 2026*, Research Associate, Institute of Data Science @ The University of Hong Kong
 - *Aug 2024 - Jan 2025*, Research Intern, Quality Assurance Team @ [ByteDance](https://www.bytedance.com/en/)
