@@ -83,7 +83,7 @@ I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University,
 - **Program Committee Member**: ISSTA 2026, ICST 2026, MSR 2026
 - **Journal Reviewer**: Comm of ACM (CACM), TSE, TOSEM, STVR, IoT-J, ACM TDRAP
 - **Artifact Evaluation Committee Member**: ICSE 2026, NDSS 2026, ICSE 2025, ACM CCS 2025, ACM CCS 2024, ICSME 2024
-- **External Reviewer**: PLDI 2026, IEEE S&P 2026, ICSE 2026, ICSE 2025, ASE 2025, ICSE 2024, ISSTA 2024, FSE 2023, ASE 2023, ISSTA 2023, ICSE 2022, ASE 2022
+- **External Reviewer**: PLDI 2026, Usenix Security 2026, IEEE S&P 2026, ICSE 2026, ICSE 2025, ASE 2025, ICSE 2024, ISSTA 2024, FSE 2023, ASE 2023, ISSTA 2023, ICSE 2022, ASE 2022
 
 # 💬 Invited Talks
 - *Dec 2025*, Sun Yat-sen University: Trustworthy and Reliable Program Analysis: From Automated Testing to LLM
