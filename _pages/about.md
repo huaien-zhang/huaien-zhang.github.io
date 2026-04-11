@@ -89,7 +89,6 @@ I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University,
 - *Dec 2025*, Sun Yat-sen University: Trustworthy and Reliable Program Analysis: From Automated Testing to LLM
 - *Dec 2025*, Nanjing University: Trustworthy Program Analysis: From Automated Testing to LLM
 - *Jun 2025*, Dagstuhl Seminar: Effective Fault Detection for Static Analzyers via Automated Testing
-- *Dec 2024*, Beijing University of Posts and Telecommunications: Improving the Reliability of Program Analyzers via Automated Testing
 - *Nov 2024*, Shandong University: Improving the Reliability of Program Analyzers via Automated Testing
 
 # 💻 Working Experience

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Huaien Zhang/张怀恩"
-description              : "Focusing on system software reliability and security"
+description              : "Focusing on compiler, program analysis, AIxSE"
 repository               : "huaien-zhang/huaien-zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://x.com/AustinZhang_CS"
+  twitter          : "AustinZhang_CS"
   vine             :
   weibo            :
   xing             :
