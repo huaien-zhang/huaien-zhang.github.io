@@ -22,6 +22,7 @@ Hello, I'm Huaien Zhang, a RTH-ITF Postdoctoral Research Fellow in the departmen
 I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University, where my research was supervised by Prof. [Yu Pei](https://www4.comp.polyu.edu.hk/~csypei/) and Prof. [Shin Hwei Tan](https://www.shinhwei.com/). Prior to my PhD, I completed my M.Eng. in Software Engineering at Fudan University under the supervision of Prof. [Min Yang](https://secsys.fudan.edu.cn/members/faculty/ym/).
 
 # 🔥 News
+* <span style="color:#030399">**2026.04:**</span> Invited as a PC Member for AgentSkills 2026. Submissions welcome!
 * <span style="color:#030399">**2026.01:**</span> Invited as a PC Member for ICST 2026. Submissions welcome!
 * <span style="color:#030399">**2025.12:**</span> Invited as a PC Member for ISSTA 2026. Submissions welcome!
 * <span style="color:#030399">**2025.10:**</span> Selected as a Junior PC Member for MSR 2026. Submissions welcome!
@@ -80,7 +81,7 @@ I earned my Ph.D. in Computer Science from The Hong Kong Polytechnic University,
 
 # 🔦 Academic Services
 - **Organization Committee Member**: FSE 2026
-- **Program Committee Member**: ISSTA 2026, ICST 2026, MSR 2026
+- **Program Committee Member**: ISSTA 2026, ICST 2026, MSR 2026, AgentSkills 2026
 - **Journal Reviewer**: Comm of ACM (CACM), TSE, TOSEM, STVR, IoT-J, ACM TDRAP
 - **Artifact Evaluation Committee Member**: ICSE 2026, NDSS 2026, ICSE 2025, ACM CCS 2025, ACM CCS 2024, ICSME 2024
 - **External Reviewer**: PLDI 2026, Usenix Security 2026, IEEE S&P 2026, ICSE 2026, ICSE 2025, ASE 2025, ICSE 2024, ISSTA 2024, FSE 2023, ASE 2023, ISSTA 2023, ICSE 2022, ASE 2022
